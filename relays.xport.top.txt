@@ -158,6 +158,7 @@ nostr.dakukitsune.ca
 nostr.danvergara.com
 nostr.data.haus
 nostr.decentony.com
+nostr.dfaria.eu
 nostr.dlsouza.lol
 nostr.dmgd.monster
 nostr.dodge.me.uk
